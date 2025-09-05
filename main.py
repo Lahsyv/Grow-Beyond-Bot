@@ -22,6 +22,7 @@ async def on_ready():
 # add handler when user joins the specific grow beyond channel.
 #@bot.event
 #async def 
+#test
 
 @bot.event  
 async def on_message(message):
